@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## Abdul Abdi 👨‍💻✨
 With 20 years of experience in the IT industry, including a decade as a Lead Software Architect, I am dedicated to driving innovation, fostering collaboration, and making a meaningful impact in both technology and education.
 
+<! --
 - 🔭 I’m currently working on: Creating innovative, scalable, and secure software solutions that align with business objectives and client needs.
 - 🌱 I’m currently learning: Advanced Azure cloud architecture and preparing for the AZ-104 certification to expand my cloud expertise.
 - 👯 I’m looking to collaborate on: Projects that require strategic software architecture leadership and a focus on client-centered innovation.
@@ -24,4 +25,4 @@ With 20 years of experience in the IT industry, including a decade as a Lead Sof
 - 💬 Ask me about: Software architecture best practices, cloud solutions, and fostering collaboration in technical teams.
 - 📫 How to reach me: aabdi10@gmail.com | www.linkedin.com/in/abdulabdi10 | https://github.com/AbdulAbdi10
 - ⚡ Fun fact: I’m equally passionate about technology and education, working to bridge gaps in access to tech for students in underserved communities.
-
+--->
