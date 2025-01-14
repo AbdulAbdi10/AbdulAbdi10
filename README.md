@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub!
 
-I’m **Abdul Abdi**, a passionate **Senior Software Architect** with over **8 years of experience** designing and developing scalable, innovative solutions. I thrive at the intersection of creativity and technology, leveraging my expertise to build efficient, user-friendly systems.
+I’m **Abdul Abdi**, a passionate **Senior Software Architect** with over **15 years of experience** designing and developing scalable, innovative solutions. I thrive at the intersection of creativity and technology, leveraging my expertise to build efficient, user-friendly systems.
 
 ---
 
